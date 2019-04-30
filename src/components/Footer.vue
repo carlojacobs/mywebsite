@@ -30,7 +30,7 @@
 				</fieldset>
 			</form>
 			<br>
-			<p>This website was created and is being maintained by <a href="http://carlojacobs.ga">Carlo Jacobs</a>.</p>
+			<p>This website was created and is being maintained by <a href="https://carlo-jacobs.com"a>Carlo Jacobs</a>.</p>
     	<br>
     	<small>&copy; Copyright 2019, Carlo Jacobs</small>
 	  </div>
