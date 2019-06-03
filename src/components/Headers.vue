@@ -35,6 +35,7 @@
 						        <div class="buttons">
 										  <a href="https://github.com/carlojacobs" class="button is-outlined" :class="colorClass"><span class="icon is-small"><i class="fab fa-github"></i></span><span>GitHub</span></a>
 										  <a href="https://worldofscience.ml" class="button is-outlined" :class="colorClass">Latest project</a>
+										  <a href="https://carlo-jacobs.com/blog" class="button is-outlined" :class="colorClass">Blog</a>
 										</div>
 						      </div>
 						    </div>
