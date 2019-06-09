@@ -23,10 +23,11 @@
 					</ol>
 					<br>
 					<h2 id="example" class="title is-3">Current Status</h2>
-					<p>This website is currently not deployed, but I will do so in the future!</p>
+          <p>You can find this project <a href="https://carlo-jacobs.com/titanic">here</a>.</p>
 				</section>
 				<footer class="modal-card-foot">
 					<a href="https://github.com/carlojacobs/titanic" class="button is-medium" :class="colorClass">View on Github</a>
+					<a href="https://carlojacobs.com/titanic" class="button is-dark is-medium">Visit Project</a>
 				</footer>
 			</div>
 		</div>
@@ -44,16 +45,6 @@
 					<figure class="image is-4by3" style="border: 2px solid black">
 						<img src="@/assets/wos.png">
 					</figure>
-					<br>
-					<h3 class="title is-3">Technologies used:</h3>
-					<p>I used several technogolies to make this project.</p>
-					<ol>
-						<li><a href="https://python.org">Python3</a> - General purpose</li>
-						<li><a href="https://tensorflow.org">Tensorflow</a> - Machine learning library made by google</li>
-						<li><a href="https://keras.io">Keras</a> - Low level machine learning library</li>
-						<li><a href="https://matplotlib.org">Matplotlib</a> - Visualizing data</li>
-						<li><a href="https://flask.pocoo.org">Flask</a> - A library for building a simple website.</li>
-					</ol>
 					<br>
 					<h3 class="title is-3">Current status</h3>
 					<p>This app is active and deployed, you can find it <a href="https://worldofscience.ml">here</a></p>
