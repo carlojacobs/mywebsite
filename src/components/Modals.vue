@@ -27,7 +27,7 @@
 				</section>
 				<footer class="modal-card-foot">
 					<a href="https://github.com/carlojacobs/titanic" class="button is-medium" :class="colorClass">View on Github</a>
-					<a href="https://carlojacobs.com/titanic" class="button is-dark is-medium">Visit Project</a>
+					<a href="https://carlo-jacobs.com/titanic" class="button is-dark is-medium">Visit Project</a>
 				</footer>
 			</div>
 		</div>
@@ -41,10 +41,6 @@
 				<section class="modal-card-body">
 					<h3 class="title is-3">World of Science</h3>
 					<p>World of Science is an online science blog where people can learn and share  about the most interesting things in our universe.</p>
-					<br>
-					<figure class="image is-4by3" style="border: 2px solid black">
-						<img src="@/assets/wos.png">
-					</figure>
 					<br>
 					<h3 class="title is-3">Current status</h3>
 					<p>This app is active and deployed, you can find it <a href="https://worldofscience.ml">here</a></p>
