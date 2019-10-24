@@ -35,7 +35,7 @@
 
 						    <div class="content">
 						      <p>My favourite quote: "One day I will find the right words, and they will be simple" - Jack Kerouac</p>
-						      I'm an Active coder, problem solver and phycisist.
+						      I'm an active coder, problem solver and amateur phycisist.
 						      <br>
 						      <time datetime="2016-1-1">13:53 PM - 10 May 2002</time>
 						    </div>
