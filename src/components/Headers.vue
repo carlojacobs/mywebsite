@@ -27,7 +27,7 @@
 						      <div class="media-content">
 						        <div class="buttons">
 										  <a href="https://github.com/carlojacobs" class="button is-medium" :class="colorClass"><span class="icon is-small"><i class="fab fa-github"></i></span><span><b>GitHub</b></span></a>
-										  <a href="https://worldofscience.ml" class="button is-medium" :class="colorClass"><b>Latest project</b></a>
+										  <a href="https://carlo-jacobs.com/titanic" class="button is-medium" :class="colorClass"><b>Latest project</b></a>
 										  <a href="https://carlo-jacobs.com/blog" class="button is-medium" :class="colorClass"><b>Blog</b></a>
 										</div>
 						      </div>
